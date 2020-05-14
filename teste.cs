@@ -5,4 +5,5 @@ public class Aluno
     public string Endereco { get; set; }
 
     public int Idade { get; set; }
+    public string Sexo { get; set; }
 }
